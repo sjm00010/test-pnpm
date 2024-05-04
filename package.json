@@ -6,6 +6,11 @@
     "@supabase/supabase-js": "2.39.0",
     "hono": "^4.2.0"
   },
+  "packageManager": "pnpm@8.12.0",
+  "engines": {
+    "node": ">=20.x.x",
+    "pnpm": ">=8.x.x"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   }
